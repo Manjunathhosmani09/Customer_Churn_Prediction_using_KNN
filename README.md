@@ -1,4 +1,3 @@
-# Customer_Churn_Prediction_using_KNN
 # Customer Churn Prediction using KNN
 
 ## Introduction
